@@ -1,3 +1,3 @@
-This is a basic recipe website that consists of a main index page which will have links to a few recipes.
+The Odin Project - Recipes (With CSS)
 
-I have demonstrated how I can use various HTML elements.
+https://newvoyage68.github.io/odin-recipes/
